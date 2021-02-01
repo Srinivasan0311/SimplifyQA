@@ -1,13 +1,12 @@
 Manifest-Version: 1.0
 Group-Id: io.jenkins.plugins
-Short-Name: SimplifyQA
-Long-Name: TODO Plugin
+Short-Name: Simplifyqaconnector
+Long-Name: SimplifyQA Connector
 Minimum-Java-Version: 1.8
 Plugin-Version: 1.0
 Hudson-Version: 2.164.1
 Jenkins-Version: 2.164.1
 Plugin-Developers: 
-Support-Dynamic-Loading: true
 Libraries: D:\Mobile\SimplifyQA\src\main\resources,D:\Mobile\SimplifyQ
  A\target\classes
 Resource-Path: D:\Mobile\SimplifyQA\src\main\webapp

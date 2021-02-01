@@ -6,10 +6,10 @@ import java.util.*;
  */
 public class InjectedTest extends junit.framework.TestCase {
   public static junit.framework.Test suite() throws Exception {
-    System.out.println("Running tests for "+"io.jenkins.plugins:SimplifyQA:1.0");
+    System.out.println("Running tests for "+"io.jenkins.plugins:Simplifyqaconnector:1.0");
     Map<String, Object> parameters = new HashMap<String, Object>();
     parameters.put("basedir","D:\\Mobile\\SimplifyQA");
-    parameters.put("artifactId","SimplifyQA");
+    parameters.put("artifactId","Simplifyqaconnector");
     parameters.put("packaging","hpi");
     parameters.put("outputDirectory","D:\\Mobile\\SimplifyQA\\target\\classes");
     parameters.put("testOutputDirectory","D:\\Mobile\\SimplifyQA\\target\\test-classes");

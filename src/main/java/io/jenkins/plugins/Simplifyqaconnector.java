@@ -88,7 +88,7 @@ public class Simplifyqaconnector extends Builder implements SimpleBuildStep {
 //			listener.getLogger().println("http://139.162.18.16:4104/user/reports/84/69882");
 			listener.getLogger().println("Suite Execution Finished");
 		} else {
-			listener.error("Job Failed");
+			listener.error("System Not Reachable");
 		}
 
 	}
